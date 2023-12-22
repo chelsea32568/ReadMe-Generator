@@ -1,7 +1,7 @@
 # README.md generator
 A command-lind application that dynamically generates a professional README.md file from a user's input. 
 
-Deployed Application - https://chelsea32568.github.io/Weather-App/
+Deployed Application - https://chelsea32568.github.io/ReadMe-Generator/
 
 Video of README.md generator - https://watch.screencastify.com/v/Eu1NSMCvrvtAnX9Ooaub 
 

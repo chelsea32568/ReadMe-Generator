@@ -5,6 +5,14 @@ function generateMarkdown(data) {
   # Description 
   ${data.description}
 
+  # Table of Contents
+    #Installation
+    # Usage
+    # License
+    # Contributing
+    # Tests
+    # Questions
+    
   # Installation
   "To install necessary dependancies, run the following command: "
   ${data.install}

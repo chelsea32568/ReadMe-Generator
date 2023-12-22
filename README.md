@@ -3,7 +3,7 @@ A command-lind application that dynamically generates a professional README.md f
 
 Deployed Application - https://chelsea32568.github.io/Weather-App/
 
-Video of README.md generator - 
+Video of README.md generator - https://watch.screencastify.com/v/Eu1NSMCvrvtAnX9Ooaub 
 
 
 ## Description
@@ -35,6 +35,10 @@ The new README.md file is named after the user input for 'title' and stored.
 ![The generated README.md file](./assets/readmeFile.JPG)
 
 The user can then see their created README.md file.
+
+![The README.md generator working](./assets/Untitled_%20Dec%2022,%202023%203_11%20PM.webm)
+
+This is a video of the README.md file working
 
 ## Credits
 - [How to display the stored information from the terminal in the README.md file] Andrew Hardemon - Online Tutoring Service

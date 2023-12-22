@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require("path");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./generateMarkdown");
 
@@ -57,7 +56,7 @@ const questions = [
   {
     type: "input",
     message: "What does the user need to know about contributing to the repo?",
-    name: "test",
+    name: "contribute",
   },
 ];
 
@@ -76,7 +75,7 @@ function init() {
   inquirer.prompt(questions).then(function (response) {
     console.log(response);
     writeToFile(`${response.title}.md`, response);
-});
+  });
 }
 
 // function call to initialize program
